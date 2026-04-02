@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://demo_spaceport"]
+
+[ext_resource type="Script" path="res://scripts/space_port.gd" id="1_sp"]
+
+[node name="SpacePort" type="Node3D"]
+script = ExtResource("1_sp")

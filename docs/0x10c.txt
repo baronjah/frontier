@@ -1,0 +1,582 @@
+0x10c
+
+0x10c (pronounced "ten to the c")[2] is an unfinished sandbox science fiction video game previously under development by Mojang AB. It was announced on April 3, 2012, by Markus Persson, the game's lead designer.[3] The game was indefinitely postponed because Persson found himself burned out and demotivated after so much early effort were spent into planning and designing the game, up until the point that it "sucked out any fun from the project". Persson then stated he will instead most likely continue to work on smaller projects for the rest of his life, rekindling the reason he loves programming games in the first place.[4] The game was later cancelled.[1]
+
+The announced features included a fully working virtual computer, random encounters, an advanced economy system, and also single and multiplayer modes in a consistent universe, or "Multiverse".[3] The game takes place in the year AD 281,474,976,712,644[5] (around 281.5 trillion years into the future) after people start waking up from "deep sleep" caused by a bug in deep sleep cells that were released in 1988. 0x is a prefix in many high-level languages used to indicate a hexadecimal literal. 10C in hexadecimal is equivalent to 1612 in decimal, which equals 281,474,976,710,656, the number of years passed in the story since 1988.
+
+Gameplay
+The list of features included engineering, space battles, seamless space-to-planet transitions, mining and trading, laser guns, and an open universe with both single-player and multiplayer variants.[3]
+
+0x10c featured a working emulated 16-bit processor inside the game called the DCPU-16 that could be accessed through any of the monitors located in the game. The DCPU-16 could also load external programs and data using the required standards which would have allowed the community to make their own DCPU-16 emulators.[6]
+
+Development
+In December 2011, Markus Persson announced[7] that he was going to be stepping down as the lead developer of Minecraft, and that he would be working on another project. Mojang CEO Carl Manneh said in an interview with Edge Online that Mojang was committed to supporting a new project that Persson was developing along with another game created by other developers in their company.[8] After winning a special award from BAFTA in March 2012, Persson revealed that there were three different projects he was developing, but he had yet to come to a decision in terms of which one he was committed to working on.[9] A few days later in an interview with PC Gamer magazine, Persson announced that he was working on a space-themed game that was inspired by the television show Firefly and the video game Elite.[10]
+
+The first details of this game were released in an April Fool's parody website called "Mars Effect", a play on Mass Effect and alluding to the lawsuit by Bethesda Softworks over trademark infringement.[11] A few days later Persson announced that he had chosen a real name for the game and that he had made some progress on its development. Although it is not immediately obvious how to pronounce the game's name and a large variety of suggestions were proposed, Persson has said that he pronounces it as "ten to the see", but that "people can pronounce it however they want".[12]
+
+On October 13, 2012, the first video gameplay of 0x10c was released by Persson on the game's website.[13] On October 26, 2012, the first multiplayer test was uploaded to the website from Twitch.TV.[14] In an April 2013 interview with Polygon, Persson stated that 0x10c development was hit by creative road block and would be put on hold. Persson also said that the game is "ways off" and that he would be expanding the team, bringing on one other developer to "make sure the game gets made".[15] On August 13, 2013, Persson confirmed in a live stream that 0x10c was indefinitely shelved, adding that the game could potentially be made in the future, if another Mojang employee were interested in continuing its development.[4]
+
+Art
+
+A mockup of what the game might look like made by Jonatan Pöljö, the game's artist
+"The style is pixel art meets modern 3D. It's influenced by bright, vivid sci-fi, and real-world functional spaceship design to go with 0x10c's realistic tone," said Jonatan Pöljö, an artist on the game's team.[16]
+
+Soundtrack
+On September 15, 2014, Daniel Rosenfeld (C418), who also composed the music for Minecraft, released the soundtrack for 0x10c on his Bandcamp page, which consists of two tracks, "0x10c" and "0".[17]
+
+Pricing
+0x10c was expected to be the first Mojang game with a monthly fee for online play in multiplayer mode (but no recurring fee for single player mode). Persson said that this was because of the cost to "emulate all computers and physics even when players aren't logged in". It is unknown if there was to be a private multiplayer mode.[3] It was revealed that the pricing would be similar to Minecraft, with alpha costing less than beta, and beta costing less than the full release.[18]
+
+
+
+0x10c was a space sandbox game that was being developed by Markus "Notch" Persson and Mojang AB during 2012 and 2013 as a followup to Minecraft. It has since been cancelled, and at present it seems unlikely that Notch, or anyone currently working at Mojang, will resume its development.
+
+"0x" is a prefix used in several programming languages to indicate a hexadecimal number. "0x10c" (ten to the C power) is a hexadecimal number equivalent to 1612 in decimal, which equals 281,474,976,710,656, which was the number of years that had passed since 1988 in the game's story.
+
+
+Contents
+1	Announcement
+2	Development
+3	Cancellation
+4	Gameplay
+5	Features
+5.1	Devices
+5.2	Items
+6	Trivia
+7	Music
+7.1	Track listing
+8	Gallery
+8.1	Videos
+9	See also
+10	External links
+11	References
+Announcement
+A spacecraft interior with an asteroid and star outside.
+A spacecraft interior with an asteroid and star outside.
+
+A planet and star.
+A planet and star.
+
+In March 2011, Notch was asked in an interview if Mojang had any plans for another game, and Notch expressed his desire to create an "extremely nerdy" space trading simulator.[1][2] Later, in December 2011, Notch announced he would be stepping down as lead developer of Minecraft, and that he would begin working on another project.[3] Mojang CEO Carl Manneh said in an interview with Edge Online in January 2012 that Mojang was committed to supporting a new project that Notch was developing.[4] In March 2012, he revealed that there were three different projects he was working on, but he had yet to decide which one he was committed to.[5] On March 13th, he announced he would begin prototyping a space game,[6] and on March 21st, in an interview with PC Gamer magazine, he announced that he was working on a space-themed game that was inspired by the television show Firefly and the video game Elite.[7]
+
+On April Fools' Day 2012, instead of a typical Minecraft April Fools joke, as was the case the prior year and every year since, Mojang launched a satirical website for a space game entitled Mars Effect,[8] citing a lawsuit with Bethesda regarding the title of the Mojang game Scrolls as an inspiration.[9] However, the gameplay elements remained true, and on April 3, 2012, Mojang revealed it as an actual space sandbox title, 0x10c.[10]
+
+The game's backstory, as told by Notch on the website, was this:
+
+
+“	
+In a parallel universe where the space race never ended, space travel was gaining popularity amongst corporations and rich individuals.
+
+In 1988, a brand new deep sleep cell was released, compatible with all popular 16 bit computers. Unfortunately, it used big endian, whereas the DCPU-16 specifications called for little endian. This led to a severe bug in the included drivers, causing a requested sleep of 0x0000 0000 0000 0001 years to last for 0x0001 0000 0000 0000 years.
+
+It's now the year 281 474 976 712 644 AD, and the first lost people are starting to wake up to a universe on the brink of extinction, with all remote galaxies forever lost to red shift, star formation long since ended, and massive black holes dominating the galaxy.[11]
+
+„
+— Notch	
+The game was to feature:
+
+Hard science fiction
+Lots of engineering
+Fully working computer system
+Space battles against the AI or other players
+Abandoned ships full of loot
+Duct tape
+Seamlessly landing on planets
+Advanced economy system
+Random encounters
+Mining, trading, and looting
+Single and multi player connected via the multiverse
+Of particular interest was the in-game computer, the DCPU-16. This was a fully functioning emulated 16 bit CPU that could be used to control the entire ship, or just to play games on while waiting for a large mining operation to finish. Full specifications of the CPU were released soon after the game's announcement, so the more programatically advanced of the playerbase could get a head start.[12] These specifications, along with the specifications for several pieces of in-game hardware that would be able to interface with the DCPU-16, can be found here.
+
+0x10c was planned to require its players to pay a monthly subscription fee in order to access the global multiplayer server that was planned to exist, due to the computational cost of simulating the trajectories and onboard systems of all the players' ships, even when the players piloting those ships weren't logged in.[13] A recurring fee would not be required to play singleplayer, and it's likely there would be the option to play on smaller, privately hosted servers for free, as in Minecraft.[14] The initial cost of buying the game was planned to start out small and increase as the game was developed, similarly to how Minecraft's price increased during the first few years of its development.
+
+Development
+A computer screen.
+A computer screen.
+
+A "3D vector projector" for creating holographic images.
+A "3D vector projector" for creating holographic images.
+
+Soon after the announcement of 0x10c, Notch began posting on Twitter about his plans for the game, and began putting images of the prototype versions on his website.[15] A forums, Reddit community, wiki, and numerous other fan-made websites were created, and Notch began communicating with fans about the game on the Reddit community as well.
+
+On April 16, 2012, Notch posted an image on the 0x10c website containing a puzzle.[16] When decoded, it revealed the word "Montauk", which was the password to get into another page on the website, which contained 99 codes which could each be redeemed once on the Mojang website to add 0x10c to the user’s Mojang account, which would have allowed them to play it as soon as the game was eventually released.[17] 0x10c remained part of these user’s Mojang accounts until it was eventually removed from the Mojang account system in 2020.
+
+On May 2, 2012, Notch launched an ARG to promote the game. A secret page on the 0x10c website read "insufficient power" along with a power percentage. The more people visited this page, the higher the power percentage became until eventually reaching 100%, whereupon a large amount of garbled code was revealed, which the community determined represented radio signals from a pulsar.[18] Discrepancies in the repeating pulsar signals were eventually decoded and revealed to be garbled text taken from Isaac Asimov’s short story The Last Question, which, like 0x10c, also takes place in the extremely distant future of the universe.[19][20]
+
+Notch also began livestreaming himself coding 0x10c on Twitch.[21][22] One of the results of this was viewers were able to copy significant amounts of the code and create a reverse-engineered version of the game.[23] Notch asked that this not be publicly released, as the game was not yet close to a state he felt comfortable releasing.[24][25] However, a prototype version of the game was accidentally leaked anyway, when Notch uploaded it to a private page on his website but forgot to disallow users from viewing all the site's files.[26] This prototype, featuring a dark room with a computer, can be found here.
+
+Originally, Notch intended for the art style of 0x10c to be mostly textureless, citing the 1993 game Frontier as inspiration.[27] However, he later changed his mind, and in September 2012, Jonatan Pöljö, also known as Eldrone, was hired as an artist for the game, and created most of the textures and models seen in the later footage.[28] According to Eldrone:
+
+
+“	
+The style is pixel art meets modern 3D. It’s influenced by bright, vivid sci-fi, and real-world functional spaceship design to go with 0x10c’s realistic tone. The idea is to give people flexible in-game tools for creativity, and have the outcome look fantastic no matter how they piece things together.[29]
+
+„
+— Eldrone	
+Progress continued, and eventually, in October 2012, Notch released several videos on YouTube and the 0x10c website showcasing the progress he had made,[30][31][32] including two physics test videos, an art test video and a multiplayer test video. Eventually, a semi-playable version, featuring a fully modeled and textured spacecraft with an interior and exterior, functional multiplayer and PVP, and the basics of the in-game computer systems, was created, and Notch livestreamed himself battling other Mojang employees onboard the ship.[33]
+
+On October 20, 2012, it was announced on the game’s website that three 0x10c-themed shirts were available to purchase from JINX.[34] One of these shirts had a string of numbers on it that was revealed to be a phone number.[35] When called, it played back a distorted sound clip, which, when enhanced, was revealed to be a message relating to the software error from the game’s backstory.[36][37]
+
+Later, on January 21, 2013, Eldrone released a "Facebuilder" demo as a preview of 0x10c's player customization system, created in Unity.[38] This can be found here.
+
+Cancellation
+The main menu.
+The main menu.
+
+Eldrone's facebuilder program.
+Eldrone's facebuilder program.
+
+0x10c was eventually put on hold in April of 2013 because Notch had found creative blocks. However, at the time, he was still interested in expanding the development staff to push the game toward release.[39]
+
+Eventually, on August 13, 2013, Notch announced in a Team Fortress 2 livestream that 0x10c was indefinitely shelved, but Notch added that it could be made in the future if another Mojang employee was interested in developing it.[40]
+
+On August 19th, Notch wrote on his blog "The Word of Notch" about his reasons for the game's cancellation:
+
+
+“	
+What I hadn’t considered was that a lot more people cared about my games now. People got incredibly excited, and the pressure of suddenly having people care if the game got made or not started zapping the fun out of the project. I spent a lot of time thinking about if I even wanted to make games any more. I guess I could just stop talking about what I do, but that doesn’t really come all that natural to me. Over time I kinda just stopped working on it, and then eventually decided to mentally file it as "on ice" and try doing some smaller things. Turns out, what I love doing is making games. Not hyping games or trying to sell a lot of copies. I just want to experiment and develop and think and tinker and tweak.[41]
+
+„
+— Notch	
+He then expressed his desire to not become "another under delivering visionary game developer", and said he would instead focus on making "smaller games that can fail" in the future. Regarding 0x10c, he said that "I want to play this game so much, but I am not the right person to make it. Not any more. I’m convinced a new team with less public interest can make a vastly superior game than what I would make."
+
+On September 15, 2014, following Mojang's acquisition by Microsoft, and Notch's departure from the company, the soundtrack for 0x10c was released by Daniel Rosenfeld.[42] He stated:
+
+
+“	
+I worked on it for a bit, but I think Markus thought the game would never be good enough and decided to cancel it. I personally still think the concept and world is brilliant, so I’m bummed out that it doesn’t exist.[43]
+
+„
+— C418	
+Eldrone would later release images of additional art assets created for 0x10c on his Twitter and website.[44][45]
+
+Gameplay
+A spacecraft interior featuring many types of panels.
+A spacecraft interior featuring many types of panels.
+
+A spacecraft interior featuring panels, wires and pipes.
+A spacecraft interior featuring panels, wires and pipes.
+
+0x10c was planned to have "Minecraft in space" style gameplay.[46] Players would be able to build their own ships using a ship editor. Players would first build the external part, and then go into a room mode with a cutaway view of the ship, in which players would be able to carve out rooms with custom dimensions.[13] Using the ship editor, players would be able to make convex rooms with 45 degree walls, to keep it simple to use, and to encourage the use of multiple rooms. Rooms could have variable height and be placed on different heights.[47] The ship editor would create a more or less empty frame of a ship, and players would then have to place panels and other things manually in the actual game.[48] It would be impossible to design a ship that isn't airtight, as a bounding volume would be made first, then rooms would be dug out after.[49] Things like stripes and names could be placed on the outsides of ships.[50]
+
+While inside a ship, players would always be oriented upright, even in zero-gravity. Outside ships, players would be able to rotate freely in any direction.[51][52] Everything’s position would be measured relative to the center of the player’s current ship, with the rest of the universe moving around it from the ship’s point of view.[53] Explosions in space would be realistic.[54] When a ship explodes, it begins to leak air and spin around before popping apart.[55] There would be no sound transmission through vacuums,[56][57] but sounds from ships getting hit by things such as debris from explosions would be audible from inside those ships.[58][59] Players would keep their ships after respawning.[60]
+
+Spacecraft would be "smaller than the nostromo, larger than a tie fighter."[61] Smaller ships could be docked inside of and launched from larger ships.[62] Hyperspace travel would also be present.[63] Ships would have sometimes gone dark for various reasons such as power failures, technical problems, and trying to avoid visual detection through windows.[64] Ships would receive and lose heat from thermal radiation. Passive stealth through minimizing a ship's emitted energy would be possible.[49] Crashing into asteroids or planets would damage onboard systems and require players to scavenge for parts to repair their ship.[65][66] Ships could have specialized rooms, such as medical bays,[13] and mess halls for food. Oxygen would "magically last forever", unless there was a hull breach.[67]
+
+There would be a large selection of different devices and other objects players would be able to place on their ship. Devices would be able to be overclocked, which may cause them to catch fire.[66] Underclocking devices would let them use less power at the cost of being less efficient.[49] Players would be able to map controller inputs to ingame hardware.[68] There would be electrical and mechanical engineering,[69] rotating rooms,[70] and machines built using the physics engine.[71] It would be possible to build computer-controlled ground vehicles with wheels, batteries, mineral sensors and digging modules. Hardware would be memory mapped to connected computers. For example, an engine would have its power and rotation mapped to a memory region. Players would control the engines, not the ship, which would then push the ship around. Computers would translate the position of enemy ships from sensors into angles for the ship's cannons to use in aiming. Cheap turrets and sensors would have built-in inaccuracy.[49]
+
+There would be a large selection of different tools and other items players would be able to use. There would be player XP and skills.[72] There would be a leveling system in which players would level up in specialized skills. Dying would reset the player’s levels.[60] There would be sounds from the player’s body.[73][74] There would be a player-driven economy system, and building ships and space stations would cost resources. Singleplayer would have optional cheats.[75] Transferring information would be possible through floppy disks and radio arrays.[76] There would be a credits system and an ingame program store. Large bases and structures built by players such as space stations would be shared between games and could be encountered in singleplayer. There would also be randomly generated abandoned ships floating in space, with aliens and robots inside, and loot such as screens and CPUs.[49]
+
+There were to be "very pretty" stars and planets.[77] Asteroids and planets were "icosahedrons (20 sided dice) fed to a make-surface-from-arbitrary-triangle-mesh code that subdivides, colorizes and offsets the polygons based off various parameters tweaked per body type". There may also be "orbitals and halo worlds" with planetary terrain on their interiors.[78] Planets would be big enough that 32 players on a planet would "pretty much never see each other".[79] There would be planet gameplay,[80] liquid water on planets,[81] and planetary ecologies, though most life would be dead.[82] There would also be many different planet types. Planets would be realistically sized, and there would be realistic orbital mechanics, and rogue planets. The game would not show any planet or star names.[49] Players would be able to mine for gold and other metals. Terrain was not planned to be modifiable, in order to reduce world file sizes.[60]
+
+Space was to be very dark, with most surviving stars being fairly dim and small.[64] The number of stars would be "large enough to feel large, but small enough so that players could map them all if they wanted to."[83] There would be an "explorable number" of stars, about 100,000.[49] Star positions would be static, but planets would orbit and spin.[84] Stars would be closer together due to the big crunch.[85] Some areas of the universe would have a lot of radiation.[49] There would be neutron stars,[86] and black holes with gravitational lensing around them.[87] Most solar systems would be a brown dwarf with very few surviving planets, though there would be an extremely small number of young stars.[49]
+
+Lighting was planned to be more complex than in Minecraft, which was because Minecraft focused on many blocks and polygons that could all change at any time, whereas 0x10c focused on modern lighting with very few polygons that rarely changed.[88][89] For example, computer monitors would illuminate their surroundings with the same colors being displayed on the screen.[90] The game would have a "this is what we thought the future would be like in the 80's"-look,[91] and a wireframe graphics mode.[92] Music would take a long time to build up, and there would be a lot of ambient sound effects.[93] The sound engine supported samples, procedural sounds and effects.[94]
+
+A monthly subscription fee would be required to access a global multiplayer server called the multiverse, due to the computational cost of simulating the trajectories and computers of all the players' ships, even when the players owning those ships were offline.[13] Private multiplayer servers would be free to use, have IP-based and LAN options, and could be run on older versions.[14] The game would run on a local server even in singleplayer.[95] VR support was planned.[96] There were to be a large number of fictional hardware and software developers,[97][98][99][100][101] and possibly a faction that outlaws open source software.[102] A full time writer for the game was planned.[103]
+
+Features
+A large open area.
+A large open area.
+
+The player using a flashlight.
+The player using a flashlight.
+
+Some of the known devices and items that were planned for the game include:
+
+Devices
+The SPC2000 (Suspension Chamber): a deep sleep cell containing a ZEF882 Time Dilation Field Generator.[104] If a player's generator was intact, they would be able to respawn in a sleep chamber powered by the generator. If a player's generator wasn't intact, a friend would need to revive them, or they would have to wait for everyone to die to respawn the ship.[105] The deep sleep cell is a highly illegal device that can accelerate a sphere of matter through the fourth dimension very close to the speed of light. Movement in the fourth spatial dimension will move the traveler between adjacent universes. It speeds up to very high speeds, then counts a number of ticks to calculate how far it's traveled, then slows back down. If the device isn't activated in a vacuum, the result is a large vacuum bubble in each dimension it passes through that implodes very rapidly, causing immense destruction, thus all of the devices come with built-in vacuum detectors and will not work when the ship is docked or in an atmosphere. The chamber is configurable to accelerate to speeds that cause milliseconds, minutes, hours, days or years to pass every few nanoseconds. The players in the game were the first to use this device in active use, and they all wanted to travel for 1 year to reach a star about a lightyear away, but due to an endianness error, they traveled for 0x10c years. Nobody found out the problem for two years, so a lot of travelers ended up in this situation. Actual time passed for the traveler was supposed to be a few minutes, but ended up being 10 hours, resulting in them missing their intended target by many miles.[106]
+The DCPU-16: a fully functioning emulated 16 bit CPU that could be used to control a player's entire ship, or just to play games on while waiting for a large mining operation to finish.[107] The DCPU-16 would still function while on fire, but slower and with the RAM changing randomly.[108] The ingame computers would crash if their interrupt queue was overflowed, if a specific undocumented code was called, or if the box was physically harmed. When it crashed, it would go into a state where sequential areas of ram would get overwritten with random noise, and the opcodes would take a lot longer to process. Since the monitor was memory mapped, it would blindly display this garbage data.[109] Computers would poll hardware 60 times per second, the same as the game's tick rate.[110] Computers would run at 100 khz.[111][112][113] A single ship would be able to support about three computers.[114] An open-source community-made operating system would be on the default computers.[115] Updated versions of the DCPU would be available as new computers. More efficient computers could be found in abandoned ships, such as one that does 112 khz at 94% power usage. Flying in highly radiated areas would cause random bits in a computer's ram to flip.[49] Computers could have text-to-speech software.[116][117] Computers would come with a basic bootloader for loading and running programs.[118] DCPU emulation would run on separate server threads, with multiple DCPUs per thread.[119] Multiple computers could be networked together.[120]
+The LEM1802 (Low Energy Monitor): a 128x96 pixel 16-color CRT monitor.[121] Clicking a keyboard or a monitor would lock input, turn the player's view towards the connected monitor, and slightly zoom in. Escape would exit.[122] Screen burn would be present on CRT monitors. Multiple monitors would be able to connect to a single CPU, which can all display the same image, or can be memory mapped to different regions to produce different images on each one. Custom 16-color palettes would be available for computers.[49]
+Power generators. Each ship would have a generator capable of producing a fixed wattage, and everything players would connect to it would drain wattage.[123] Each player would only be able to have one generator at a time, but multiple players would be able to place their generators on a single ship to give it more power, encouraging cooperation between players.[66] Generators would not have required fuel,[124] would explode when destroyed,[125] and would emit light.[126]
+Gravity generators. When a ship’s gravity generator is unpowered, objects inside the ship would be subject to the same physical forces as the ship itself.[66] Artificial gravity generators would would recharge when hovering over a planet.[127] Rotation-produced artificial gravity would also be possible, as well as using magnetic boots to walk on surfaces in zero-gravity.[128] Constant acceleration could also be used to create artificial gravity.[129]
+A hyperverse EM array which connects to web servers, a multiverse EM array which connects to other multiplayer games, and a universe EM array which is limited to one game.[130] Hyperverse communication would be very slow.[131]
+Doors, which could be opened into space to put out fires. If doors stopped working, players would need to manually open them by either using blowtorch or hacking into them.[132]
+Cloaking fields. These would have required almost all the power from the generator, forcing players to turn off all computers and dim all lights in order to successfully cloak.[123]
+Wires and other attachments that hang from the ceiling.[66] Wires would run electricity from the generator to other devices.[39]
+Landing gear, which may break if a ship lands too hard.[66] Landing gear would need to be powered for it to work.[133]
+Lights, which could be very bright, but would need to be dimmed to free up power or decrease visibility.[64][123]
+The SPED-3 (Suspended Particle Exciter Display): a device that creates line-based holographic images.[134]
+Buttons and knobs, which could have midi inputs mapped to them.[135]
+Cooling systems, necessary for putting out fires.[7]
+3D printers, used for making other devices.[60]
+Oxygen containers and graviton emitters.[136]
+1.44 megabyte 3½ inch floppy drives.[137]
+400 square kilometer maps.[138]
+10 megabyte hard drives.[49]
+Automated turrets.[66]
+Decorative panels.[48]
+Shield generators.[139]
+Digging modules.[49]
+Switch panels.[140]
+Refrigerators.[13]
+Laser guns.[13]
+Keyboards.[141]
+Windows.[64]
+Sensors.[60]
+Wheels.[49]
+Robots.[142]
+Radars.[143]
+Clocks.[144]
+Items
+Components. Devices would have their own inventory, into which interior components could be placed. The devices themselves would be craftable from various materials using 3D printers, but the interior components would have to be scavenged from abandoned ships. Each of these components would come in many variants with different attributes.[66] Things such as guns, refrigerators, computers, and shield generators would have an inventory with specific slots. Rifles and fridges, for example, would both be able to use cooling units, so players would have to choose whether to put their "titanium extravagant alien cooling unit" in their fridge to save generator power, or in their gauss sniper rifle to save cooldown time.[139][145]
+Modular guns, with cross compatible modules which could be found as loot,[146] with a total of "100 bazillion" guns.[147] These would include sniper rifles,[139] plasma pistols, and laser guns. Laser guns would cause the target to heat up before taking damage.[148] Weapons would consume power or ammunition when fired.[125]
+1.44 megabyte 3½ inch floppy discs.[137] Players would be able to use other people’s programs on their ship’s computer by using these floppy discs.[66]
+Batteries, which would store power produced by generators, and could be traded between players.[149]
+Walkmans, for playing music, which would slow down when their battery is low.[150]
+Duct tape, which would be able to fix anything for a limited amount of time.[151]
+Flashlights, which could be used for spelunking and fixing broken ships.[152]
+Magnetic boots, for walking on surfaces in zero-gravity.[128]
+LP copies of Rick Astley's Never Gonna Give You Up.[153]
+Metals, such as gold and titanium.[60][139]
+Food.[67]
+Trivia
+According to Notch, the game’s name was "intentionally bad" as a marketing experiment to see if Mojang could get away with naming their next game "pretty much anything".[154]
+According to Notch, the original name for 0x10c was Dusk, referring to the dark, dying galaxy.[155]
+"Mackapar Media", a fictional company that produced some of the in-game hardware, was the company credited on Mojang's Pig Tales website, and is also mentioned in a video advertising the original LEGO Minecraft set.[156]
+Another word for the number represented by the hexadecimal value "0x10c" is "Trillek".[157]
+The sound of the weapon seen in some of the videos is taken from the blaster from the game Quake 2.[158]
+Some of the videos from the game’s development contain a low-poly model of the Soldier character from the game Team Fortress 2.[159][160]
+The game was not planned to use alpha or beta labels,[161] with the first phase of development being referred to as "Montauk".[162]
+According to Notch, 0x10c was inspired by Firefly, Elite, Alien, The Matrix, 2001: A Space Odyssey, FTL, Noctis, and Proteus.[163][164][165][166][167]
+The game was originally planned to use an emulated 6502 processor before Notch decided to create a fictional custom computer.[168][169][170]
+Music
+
+0x10c
+0x10c cover
+Studio album by
+C418
+Released
+September 15, 2014 (Bandcamp)
+Genre
+Soundtrack
+Length
+3:08
+Available as
+Digital download
+Discogs
+955255
+Link
+Bandcamp
+0x10c is the soundtrack released for 0x10c by C418, which features several songs created for the game before its cancellation. It was released on September 15, 2014 on Bandcamp.
+Track listing
+No.	Title	Length
+1.	"0x10c"	1:54
+2.	"0"	1:14
+Gallery
+A player model.
+A player model.
+ 
+A weapon model.
+A weapon model.
+ 
+Mockup of a spacecraft cockpit.
+Mockup of a spacecraft cockpit.
+ 
+Another view of the same cockpit.
+Another view of the same cockpit.
+ 
+A weapon being held backwards.
+A weapon being held backwards.
+ 
+A weapon being held correctly.
+A weapon being held correctly.
+ 
+A dark room filled with test geometry.
+A dark room filled with test geometry.
+ 
+Another view of the same room.
+Another view of the same room.
+ 
+A room without textures.
+A room without textures.
+ 
+The same room with Minecraft wood textures.
+The same room with Minecraft wood textures.
+ 
+A drably lit room with a floating cube in it.
+A drably lit room with a floating cube in it.
+ 
+A colorfully lit room with floating cubes in it.
+A colorfully lit room with floating cubes in it.
+ 
+Alternate version of the main menu.
+Alternate version of the main menu.
+ 
+A "hello world" program on an in-game computer.
+A "hello world" program on an in-game computer.
+ 
+A computer monitor.
+A computer monitor.
+ 
+A random face in the facebuilder.
+A random face in the facebuilder.
+ 
+Some faces created with the facebuilder.
+Some faces created with the facebuilder.
+ 
+A preview of some facebuilder faces.
+A preview of some facebuilder faces.
+ 
+A demonstration of exporting facebuilder faces as images.
+A demonstration of exporting facebuilder faces as images.
+ 
+A photo being used as a face in the facebuilder.
+A photo being used as a face in the facebuilder.
+ 
+A custom robot face in the facebuilder.
+A custom robot face in the facebuilder.
+ 
+The boot-up screen of the in-game computers.
+The boot-up screen of the in-game computers.
+ 
+The start screen of the in-game computers.
+The start screen of the in-game computers.
+ 
+The font of the in-game computers (from the leaked build).
+The font of the in-game computers (from the leaked build).
+ 
+The font of the in-game computers (from Notch on Reddit).
+The font of the in-game computers (from Notch on Reddit).
+ 
+The puzzle Notch posted that let users obtain free accounts.
+The puzzle Notch posted that let users obtain free accounts.
+ 
+A test image from the files of the leaked build.
+A test image from the files of the leaked build.
+ 
+A drawing by Notch explaining how multiplayer would work.
+A drawing by Notch explaining how multiplayer would work.
+ 
+Design from an official 0x10c shirt, depicting a microcontroller with numbers on it.
+Design from an official 0x10c shirt, depicting a microcontroller with numbers on it.
+ 
+Design from an official 0x10c shirt, depicting circuits in a galaxy pattern.
+Design from an official 0x10c shirt, depicting circuits in a galaxy pattern.
+ 
+Design from an official 0x10c shirt, depicting the game's logo.
+Design from an official 0x10c shirt, depicting the game's logo.
+ 
+Logo from the first version of the website.
+Logo from the first version of the website.
+ 
+Logo from the second version of the website.
+Logo from the second version of the website.
+ 
+The Mojang logo as seen in-game.
+The Mojang logo as seen in-game.
+ 
+The Mars Effect logo.
+The Mars Effect logo.
+ 
+Icon from the Mojang account site.
+Icon from the Mojang account site.
+ 
+0x10c on Dinnerbone's Mojang account.
+0x10c on Dinnerbone's Mojang account.
+Videos
+Note: These videos are all reuploads of videos originally uploaded by Notch.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+See also
+Mojang Studios
+Markus Persson
+Jonatan Pöljö
+Daniel Rosenfeld
+0x10c on Wikipedia
+External links
+Leaked Build Download
+Facebuilder Download
+Hardware Specifications
+Mars Effect (archived)
+Official Website (first version) (archived)
+Official Website (second version) (archived)
+Forums (archived)
+Wiki (archived)
+FAQ (archived)
+0x10c on Reddit
+0x10c on Bandcamp
+0x10c on C418.org
+References
+ History of pre-alpha 0x10c (wip): – Reddit, u/jecowa, May 16, 2012
+ "A Day In The Life Of Minecraft Creator Mojang" by John Walker – Rock Paper Shotgun, March 7, 2011.
+ "Och med dom orden så passar jag micken." (archived) by Notch – Tumblr, December 2, 2011.
+ "Mojang working on three new games" (archived) by Nathan Brown – Edge Online, January 13, 2012.
+ "Video: Minecraft boss talks three projects, BAFTA thrill" by Staff – VG24/7, March 17, 2012.
+ "Screw it, I know I'm working on two projects already, but I'll start prototyping the space game now." – @notch (Markus Persson) on X, March 13, 2012
+ "Notch wants to make a Firefly-inspired sandbox space game like Elite "except done right"" by Tom Senior – PC Gamer, March 21, 2012.
+ "Some information on my new game: http://marseffect.net" – @notch (Markus Persson) on X, March 31, 2012
+ "Minecraft creator scores April Fool with 'Mars Effect'" (archived) by Rebecca Fields – Shadowlocked, March 31, 2012.
+ "Mojang Registers Website For Its New Game '0x10c'" by Alex Knapp – Forbes, April 3, 2012.
+ "0x10c.com (first version)" (archived) .
+ "START_CLASSIFIED_TRANSMISSION" (archived) by Notch – Tumblr, March 28, 2012.
+ "Notch mega-interview: 0x10c, micropayments, Kickstarter and quantum computing (page 1)" by Marsh Davies – PC Gamer, November 29, 2012.
+ The plan right now is to absolutely allow for private servers, and to ship the game with private server support built in. These will work similar to Minecraft servers, where you can choose to enable login verification via our servers, in which case they will need to be connected to the internet, or to skip that bit and just let anyone in, in which case they will work great for lan parties out at sea or in cabins in the woods. – Reddit, u/xNotch, October 19, 2012
+ First Screens from Notch's New Game 0x10c – Reddit, u/TL10, April 11, 2012
+ Notch posts a puzzle – Reddit, u/Zengief, April 16, 2012
+ I don't know what these accounts will do yet. – Reddit, u/xNotch, May 16, 2012
+ Stay connected to the ARG! – Reddit, u/dbh937, May 2, 2012
+ This is from the #0x10c-arg channel on freenode. ShadedSpriter has just written a little summary: – Reddit, u/[deleted], May 4, 2012
+ https://gist.github.com/rmmh/2599184
+ https://www.twitch.tv/videos/38122428?filter=all&sort=time
+ https://www.twitch.tv/videos/38122416?filter=all&sort=time
+ Trillek / 0x10c Room Editor Demonstration - By Herobrine - YouTube – Reddit, u/HerobrinesArmy, June 21, 2012
+ Hah, yeah, it freaked me out a lot until I saw what actually happened. To be straight, I'd prefer it if you didn't release anything, but I do understand the slow dev speed is frustrating. I have what is probably the best excuse in the world for being slow, but I try to keep it a bit secret. – Reddit, u/xNotch, May 26, 2012
+ 0x10c - Upcoming Room Editor Release – Reddit, u/Dragoon478, May 26, 2012
+ I wanted to copy the files to an AWS server, but was too lazy to use WinSCP, so I uploaded it "temporarily" to my notch.net wordpress thing. I forgot to delete the file, and wordpress was configured to let people list all the files. – Reddit, u/xNotch, April 17, 2012
+ "0x10c FAQ" (archived) .
+ "We interviewed @eldrone to work as a 3d artist on 0x10c today and were so impressed we hired him on the spot. He starts Monday." – @notch (Markus Persson) on X, September 28, 2012
+ "0x10c.com (second version)" (archived) .
+ "0x10c Alpha Test #01" – Artur Rodrigues on YouTube, October 5, 2012
+ "0x10c Alpha Test #02" – Artur Rodrigues on YouTube, October 9, 2012
+ https://web.archive.org/web/20131219192521/http://0x10c.com:80/category/video/
+ "First multiplayer test!" (archived) by Owen – 0x10c.com, October 26, 2012.
+ "Now you can wear 0x10c stuff!" (archived) by Owen – 0x10c.com, October 20, 2012.
+ There's nothing more to it. When JINX were designing the shirt, they wanted to add an easter egg to it, and suggested the phone number. I thought it sounded fine, and then came up with the script it reads back to you, intended to be some backstory stuff. – Reddit, u/xNotch, December 7, 2012
+ So little endian is the one with the low byte last, <pause> right? <pause> What do you mean it's first? – Reddit, u/Ziyudad, December 6, 2012
+ https://soundcloud.com/asteriskman/0x10c-cleanup
+ "Here's a proper download for the facebuilder test: https://s3.amazonaws.com/assets.mojang.com/0x10c/facebuilder_test_0.1_win.rar" – @eldrone on X, January 21, 2013
+ "Minecraft, Scrolls, 0x10c: The past, present and future of Mojang as seen through Notch's eyes" by Brian Crecente – Polygon, April 5, 2013.
+ "Notch indefintely shelves Mojang’s space game, 0x10c" (archived) by James Plafke – Geek.com, August 13, 2013.
+ "So that’s what I’m going to do." (archived) by Notch – Tumblr, August 19, 2013.
+ 0x10c by C418 on Bandcamp
+ https://c418.org/albums/0x10c/
+ "Found the art test I made way back when applying for a job at Mojang to work on 0x10c." – @eldrone on X, April 1, 2018
+ http://www.jonatanpoljo.com/pages/new_9.html
+ "Turning into Minecraft in Space. More coffee. Fourth cup so far." – @notch (Markus Persson) on X, September 12, 2012
+ Right now you can make convex rooms with 45 degree walls, to keep the editor simple to use, and to encourage the use of multiple rooms. Rooms can have variable height and be placed on different heights. – Reddit, u/xNotch, November 21, 2012
+ What Jonatan and I discussed more specifically was what the ship editor is responsible for, and what the player has to do in first person. We moved a lot of the stuff to first person, which makes so much more sense. The ship editor just gives to a more or less empty frame of a ship, then you have to place panels and other stuff manually in the actual game. – Reddit, u/xNotch, January 7, 2013
+ Excerpts of chat log featuring conversations with Notch: – Reddit, u/jecowa, April 17, 2012
+ "OF COURSE stripes and names on the sides. But they will be polygons!" – @Notch on X, April 6, 2012
+ So now I'm switching to a simple "down is always aligned along the y axis"-model like in all other shooters, and if we need to change it in the future, we can. This involves rewriting a lot of code I already had in place, but the new code is so much shorter than the old one. – Reddit, u/xNotch, September 28, 2012
+ Outside of the ship, the player will be able to spin around freely. If you drift through an opening in the ship, you'll spin to realign with the inside of the ship. – Reddit, u/xNotch, October 28, 2012
+ Are you asking how it's implemented? The ship is loaded as static geometry and never moves. External forces like acceleration and impact will be implemented by applying the inverse force to everything inside the ship rather than by moving the actual ship hull. – Reddit, u/xNotch, October 28, 2012
+ "I want explosions in space to look realistic in 0x10c. I should travel to space and blow up a small ship. For science." – @Notch on X, May 14, 2012
+ "Actually, the best way to do it is probably to make the ship leak air visibly and start spinning for a few secs, then go "POP" for 100 ms." – @notch (Markus Persson) on X, May 14, 2012
+ "Of course it's going to be silent! There's no medium for sound to propagate through in space!" – @notch (Markus Persson) on X, May 14, 2012
+ "I meant a visual pop, don't worry. There will be no sound in space, and that's a promise!" – @notch (Markus Persson) on X, May 14, 2012
+ "You will hear stuff within your own ship! And if you get hit." – @notch (Markus Persson) on X, May 14, 2012
+ "Yeah. Imagine hearing your ship getting hit by tiny debris from an exploding ship... Nice. :D" – @notch (Markus Persson) on X, May 14, 2012
+ "Notch mega-interview: 0x10c, micropayments, Kickstarter and quantum computing (page 2)" by Marsh Davies – PC Gamer, November 29, 2012.
+ Smaller than the nostromo, larger than a tie fighter. – Reddit, u/xNotch, March 23, 2012
+ I picked sizes that seemed to make for the most fun gameplay. In Alien, there was a lot of running around and pressing buttons while still feeling claustrophobic, but it's obviously a bit too large to be manned by a single person. I could see adventures on a nostromo size ship being fun in four player co-op play. – Reddit, u/xNotch, March 24, 2012
+ "So what if you get inside a tiny ship and fly into a larger ship, and the larger ship enters hyperspace? What if you're halfway in?" – @notch (Markus Persson) on X, March 27, 2012
+ Space will be very dark, with most surviving stars being fairly dim and small. The ship you're in will sometimes go dark for various reasons (power failures, technical problems, trying to avoid visual detection through windows), but you can stick very bright lights in there to make it look nice and bright. – Reddit, u/xNotch, March 13, 2012
+ "Notch talks 0x10c, Minecraft, learning the industry, Diablo 3, and more in this candid interview" (archived) by Ben Kuchera – The Penny Arcade Report, September 5, 2012.
+ "New 0x10c footage emerges - we talk to Notch about his game's interstellar ambition" by Marsh Davies – PC Gamer, October 12, 2012.
+ I want food to be a thing in the game simply because mess halls are awesome in space. Can you think of a single space movie that doesn't feature the people eating while slowly floating through space? – Reddit, u/xNotch, May 15, 2012
+ There will be controllers you can plug into the cpu, and those can be mapped to physical hardware. I've got an xbox controller plugged in at the moment, but I intend to purchase one of those fancy flight sim joysticks to make sure those work as well. – Reddit, u/xNotch, March 13, 2012
+ "I have the awesomestly nerdy followers. Yes, I might go 6502, and I hope to include electrical and mechanical engineering too. #needtolearn" – @notch (Markus Persson) on X, March 18, 2012
+ "Hahaaa, I've got a rotating room now, with physics mostly working. There's a gimbal lock in the body rotation, though.. Hmm.." – @notch (Markus Persson) on X, April 4, 2012
+ "Assuming I can work out these Bullet glitches, having proper physics would be VERY COOL in 0x10c. Imagine the machines you could build!" – @Notch on X, June 14, 2012
+ "Do you want player xp and levels and skills in 0x10c?" – @notch (Markus Persson) on X, May 24, 2012
+ "you hear your own body very loudly in a silent environtment!" – @notch (Markus Persson) on X, April 6, 2012
+ "I was thinking body internal sounds for intense situations, too. Running low on oxygen? Louder heart and breath sounds." – @notch (Markus Persson) on X, May 14, 2012
+ I am not trying to make EVE. EVE already exists, and does what it does very very well, however.. it will most definitely have a player driven economy, and to make a huge space ship or station you will need a lot of resources. Those resources come from mining. – Reddit, u/xNotch, May 17, 2012
+ "Someone will have to write a loader. ;) There will be floppy disks in the game if you like artifacts, or a radio array." – @Notch on X, April 4, 2012
+ "very pretty stars and planets." – @Notch on X, April 6, 2012
+ The asteroid is an icosahedron (20 sided die) which is fed to a make-surface-from-arbitrary-triangle-mesh code that subdivides, colorizes and offsets the polygons based off various parameters I will tweak per body type. – Reddit, u/xNotch, March 11, 2012
+ I'm hoping to do surface combat as well, but I worry a bit about scope. A planet is HUGE, and 32 players (or whatever) will pretty much never see each other. We'll see. – Reddit, u/xNotch, June 7, 2012
+ "There will be planet gameplay." – @Notch on X, April 4, 2012
+ "Liquid water in outer space is probably quite rare, yes. Planets might have liquid water. Space suits don't like liquids." – @notch (Markus Persson) on X, December 22, 2012
+ "yes to the first one, and I MIGHT make time non-relative for game play reasons. Ecologies, maybe.. most life will be dead." – @Notch on X, April 5, 2012
+ The number of stars will be large enough to feel large, but small enough so that players could map them all if they wanted to. – Reddit, u/xNotch, October 21, 2012
+ Star positions will be static. A LOT of time would have to progress for any noticeable difference to show. Planets will orbit and spin, however. – Reddit, u/xNotch, October 21, 2012
+ "Can I combine heat death and a sudden start of a big crunch for gameplay reasons? (making stars closer to each other)" – @notch (Markus Persson) on X, March 27, 2012
+ "Hello floppy disks, meet my friend Neutron Star and his companion EM Radiation. #0x10c" – @mollstam (Tobias Möllstam) on X, April 5, 2012
+ "If you mean gravitational lensing from black holes, then I hope so. If it fits the visual style." – @Notch on X, April 4, 2012
+ Minecraft has a completely different focus. Instead of having realistic movable lights, it focuses on having every single block in the game capable of emitting lights. This means you can make a huge lava river and have it light up your house from below, as the lighting can come from every single block of lava in the river. In 0x10c, there will be way less light sources, and as a result, they can be much more complex. – Reddit, u/xNotch, March 10, 2012
+ I replied to this complaint in another thread on here. Basically, the renderers are COMPLETELY DIFFERENT. Minecraft focuses on many (many) blocks and polygons that could all change at any time. 0x10c focuses on modern lighting with very few polygons that rarely change. – Reddit, u/xNotch, March 10, 2012
+ Those soliders are just empty models to try the renderer. There's no ai or anything attached to them, they just silently and eerily rotate in place. The space interior, however, has full physics, and is fully editable. The light from the monitor in the distance is dynamic and depends on what the screen shows. A red screen has a red glow and so on. – Reddit, u/xNotch, March 10, 2012
+ "aesthetic. I want to capture a "this is what we thought the future would be like in the 80's"-look. Also, frontier did it." – @Notch on X, April 6, 2012
+ "I am ACTUALLY considering having a wireframe mode. ;)" – @Notch on X, April 6, 2012
+ Interesting. Though I want music to be even rarer than in Minecraft. By which I mean not rare in quantity, but rare in the amount of time it takes for a song to build up. So mostly you would hear ambient sound effects. Think about humming of machinery, the whirring of computer fans. That stuff. Also I don't think I want to use Minecraft sound effects, haha :) – Reddit, u/C418, October 13, 2012
+ "That was fun! Implemented the base for the sound engine in 0x10c. Supports samples and procedural sounds, and the ability to add effects." – @notch (Markus Persson) on X, October 21, 2012
+ "0x10c now runs in multiplayer even in singleplayer mode. Now that's progress, even if everything looks the same!" – @Notch on X, October 28, 2012
+ "Notch mega-interview: 0x10c, micropayments, Kickstarter and quantum computing (page 3)" by Marsh Davies – PC Gamer, November 29, 2012.
+ "Any indie dev studios out there who want to get their names featured as fictional hardware or software devs in 0x10c? Let me know! :D" – @notch (Markus Persson) on X, April 25, 2012
+ "Please let me know an 80's appropriate exact spelling of the name as you'd want it to appear. :D" – @notch (Markus Persson) on X, April 25, 2012
+ "Dear lord.. Added 100 names so far, still going through tweets. I may have to edit a few to get rid of "games" and similar words." – @notch (Markus Persson) on X, April 25, 2012
+ "Got 267 names now.. wow.. My fingers are hurting. I'll go over this list later on and pick a bunch that sound spacey. Thanks! :D" – @notch (Markus Persson) on X, April 25, 2012
+ "A few people asked for it, so here's the raw list of names: http://pastebin.com/raw.php?i=Y78N71TM" – @notch (Markus Persson) on X, April 25, 2012
+ "I'm actually considering making one of the factions in the game outlaw open source stuff. ;)" – @notch (Markus Persson) on X, March 29, 2012
+ "Don't know anyone who has any need for any full time writers, but I know we want one for 0x10c" – @notch (Markus Persson) on X, August 21, 2012
+ https://web.archive.org/web/20130905061002/http://dcpu.com/sleep-chamber/
+ If the generator is intact, you can choose to respawn in the sleep chamber near the generator. If the generator isn't intact, a friend will need to revive you, or you have to wait for everyone to die to respawn the ship. – Reddit, u/xNotch, October 4, 2012
+ Oh no, this is not a plot hole, this is actually pretty well thought through! – Reddit, u/xNotch, October 1, 2012
+ https://web.archive.org/web/20130905082541/http://dcpu.com/dcpu-16/
+ Actually, screw it, the DCPU-16 will still work when on fire, except MUCH slower, and ram will get changed randomly. – Reddit, u/xNotch, March 25, 2012
+ When the DCPU-16 crashes, it goes into a weird state where sequential areas of ram will get overwritten with random noise, and the opcodes take a lot longer to process. Since the monitor is memory mapped, it will blindly display this garbage data. – Reddit, u/xNotch, October 4, 2012
+ For speed and sanity reasons, hardware gets polled 60 times per second (the game tick update interval), and 1/60th of a second was very close to the read time for a sector, so I switched it over to instantly copy an entire second in a game tick. It's a much simpler architecture to implement, and you don't have to worry about partial writes or reads. In the spec, I handwave this away by saying it protects against partial reads and writes, somehow. – Reddit, u/xNotch, October 6, 2012
+ "At 100 khz, it's only a bit slower than a C64. Many instructions are 1-cycle, and single op MUL and SHR and such helps a lot." – @notch (Markus Persson) on X, March 28, 2012
+ "I may bump it to 200 khz or even more if needed, but the slower, the better. I'd rather have loads of CPUs." – @notch (Markus Persson) on X, March 28, 2012
+ "Niiiiiice! :D FYI I'm aiming at 100 khz at the moment, with hardware sprites and scrolling on the display." – @notch (Markus Persson) on X, April 4, 2012
+ "yes. Aiming at three computers being a reasonable amount." – @Notch on X, April 4, 2012
+ "We should probably stick an open source community made OS in the default computers in 0x10c. I can't code those things as well as you can!" – @Notch on X, April 9, 2012
+ "If I can find a good voice synthesizer, one of the possible outputs for the DCPU is a text to speech speaker. "Good morning, Notch!"" – @notch (Markus Persson) on X, April 5, 2012
+ "I am very tempted to make my own text to speech thing for 0x10c. It'd be just raw phonemes. This stuff is fun!" – @Notch on X, October 21, 2012
+ The idea is to let the community develop and choose the default bootloader code. Initially, it will ship with a very, very tiny bootloader that just loads in the contents of a drive and runs it. – Reddit, u/xNotch, December 23, 2012
+ DCPU emulation will be done in separate threads on the server (when playing single player, you're actually running a local server), with several DCPUs per thread because it seems to save resources compared to having one thread per DCPU. – Reddit, u/xNotch, December 7, 2012
+ Networking two computers is definitely possible. The "no hotswapping" thing is actually a game design thing that spilled over into cpu design. I want frantically rebooting your computer in a firefight to be a thing. Just imagine how valuable fast boot ups could become.. – Reddit, u/xNotch, May 15, 2012
+ https://web.archive.org/web/20130905063459/http://dcpu.com/monitor/
+ Click a keyboard or a monitor to lock input, turn view towards the connected monitor, and slightly zoom in. Escape exits. – Reddit, u/xNotch, October 4, 2012
+ https://web.archive.org/web/20140323172842/http://0x10c.com/story/
+ They're magical fairy dust generators that don't require fuel. They did last for 0x10c years, after all, somehow... – Reddit, u/xNotch, March 17, 2012
+ For game design, I usually try to think about what you'd expect things to do, and design from there. And yeah, generators explode. In movies and games, generators explode more than they produce power. – Reddit, u/xNotch, July 31, 2012
+ "I dreamed about the reactor core, and now it needs to emmitt light. Such an obvious thing, but that means I need a fancy lighting engine. :D" – @notch (Markus Persson) on X, March 23, 2012
+ "Considering making the linear higgs boson emitter (for fake gravity) require recharging by hovering over a planet. #doesntworkthatway" – @notch (Markus Persson) on X, March 30, 2012
+ The physics engine supports arbitrary gravity vectors, kind of. By "kind of" I mean there's a bug where your head will get stuck inside a wall if it changes too fast, but that's easily fixed. – Reddit, u/xNotch, March 22, 2012
+ Or you could put the engines at the bottom of the ship and constantly accelerate at 9.8m/s2 – Reddit, u/xNotch, October 27, 2012
+ "The hyperverse EM array will let you connect to web servers. The multiverse ones, other multiplayer games. The regular one, your game." – @notch (Markus Persson) on X, March 29, 2012
+ "Trying to work out if hyperverse communications should be super slow tcp or super slow udp in 0x10c. tcp means BBSes. udp makes more sense." – @Notch on X, May 30, 2012
+ One specific great idea is opening the outer doors to put out fires. A stupidly dangerous move in interstellar space, sure, but very effective. Another thing I thought of is that doors need to be able to stop working, and then you need to be able to manually override them. Either by doing the clichéd blowtorch cutting thing, or by some hacking minigame. – Reddit, u/xNotch, September 15, 2012
+ "not at all, it's a "oh crud, the power to the landing gear went out!" simulator" – @notch (Markus Persson) on X, December 22, 2012
+ https://web.archive.org/web/20130905084712/http://dcpu.com/3d-vector-display/
+ "Here's a weird idea; why not let the player map midi inputs to ingame buttons and knobs? Because it's silly, that's why." – @notch (Markus Persson) on X, April 5, 2012
+ "The O2 comes from containers, the gravity from either higgs boson (someone told me this was wrong) or graviton emitters." – @notch (Markus Persson) on X, April 10, 2012
+ https://web.archive.org/web/20130905072724/http://dcpu.com/floppy-drive/
+ "no way, it has 400 square kilometer maps and skills!" – @notch (Markus Persson) on X, December 19, 2012
+ Well, the idea is that pretty much all things (guns, refrigerators, computers, shield generators) have an inventory with specific slots. – Reddit, u/xNotch, September 22, 2012
+ "Will there be standard switch panels on 0x10c? I most certainly hope so!!" – @notch (Markus Persson) on X, April 28, 2012
+ https://web.archive.org/web/20130905061706/http://dcpu.com/keyboard/
+ robots are like babies, right? – Reddit, u/mollstam, May 10, 2012
+ "I got an urge to add a 3d green vector line display to the DCPU in addition to the 2d pixel one. Useful for elite-like radars, perhaps" – @notch (Markus Persson) on X, April 22, 2012
+ https://web.archive.org/web/20130905080349/http://dcpu.com/clock/
+ You can assemble component parts in predefined hardware we add to the game, but not create entirely new hardware. The reason is mainly that I want this to be a game, not a tool for playing around with the DCPU-16. – Reddit, u/xNotch, October 19, 2012
+ "For srs, the idea is to have the guns (and most other things) be modular, with cross-compatible modules you can find as loot." – @notch (Markus Persson) on X, September 22, 2012
+ "My goal for 0x10c: have more guns than Borderlands 2. Aiming at 100 bazillion." – @Notch on X, September 22, 2012
+ A proper laser gun would be fun too. Whatever you aim it at could heat up for a second or so before actually starting to take damage, so if you start getting hit by one you can still run away. – Reddit, u/xNotch, October 4, 2012
+ You get one generator per account, can't pay to get more generators. You can, however, spend ingame money (or ore, or artifacts, or whatever) on buying charged batteries from other players if you want extra power. (Or, if you don't have a very power consuming ship, charge and sell batteries yourself) – Reddit, u/xNotch, March 17, 2012
+ "Also, walkmans for music. Slows down when low on battery? =D" – @notch (Markus Persson) on X, May 24, 2012
+ "I hope so. For gameplay reasons, I will make duct tape fix ANYTHING for a shorter period of time." – @Notch on X, April 4, 2012
+ "Flashlights, for spelunking and fixing broken ships!" – @Notch on X, April 10, 2012
+ "HAH! Never Gonna Give You Up was popular in 1988. Obviously, all the pilots should carry an LP copy of it." – @notch (Markus Persson) on X, April 5, 2012
+ The name is somewhat intentionally "bad", both because it's less likely to already be owned by bethesda, and as a bit of a marketing experiment on my part. We have such a vocal fan base and so many eyes on us I could get away with naming the game pretty much anything. Making it a puzzle seemed like a fun way to set the tone for the game. – Reddit, u/xNotch, April 19, 2012
+ "The original name for 0x10c was "dusk", referring to the dark, dying galaxy. Too similar to eve, so we went much nerdier." – @Notch on X, June 6, 2012
+ "It's Almost Here..." – Minecraft on YouTube, February 16, 2012
+ http://www.intuitor.com/hex/words.html
+ I gave the gun the blaster sound from quake 2, and tested a few procedural sounds; a fizz wherever the shot hits, some random tones from the monitor, and a very annoying hum from the SPED-3. – Reddit, u/xNotch, October 21, 2012
+ Custom engine, the solider is an aweome placeholder I found online by some very talented modeler, whose name I've unfortunately forgotten. – Reddit, u/xNotch, October 12, 2012
+ It's from Tommy Tallian's low poly TF2 study. – Reddit, u/exprdebt, October 12, 2012
+ "Because of that article, I'm not going to use the alpha/beta labels on 0x10c. I'll still be clear about it being in development." – @notch (Markus Persson) on X, January 8, 2013
+ It's the project name since classes can't start with a digit. Montauk is the codename for the pre-pre-alpha verion we're working on now – Reddit, u/xNotch, December 7, 2012
+ "Why are everyone focusing on firefly being part of the inspiration? Elite, alien, even matrix, are huge inspirations too. Also, 2001." – @notch (Markus Persson) on X, March 24, 2012
+ "Well then, I guess you can officially add FTL to the list of games that inspired 0x10c. GO PLAY FTL RIGHT NOW, it is amazing!!" – @Notch on X, September 15, 2012
+ "The noctis games are very interesting, and definitely an inspiration for 0x10c!" – @Notch on X, November 21, 2012
+ "proteus is actually part of the inspiration for this game. Is it a game? Not sure. Does it need to be?" – @Notch on X, April 10, 2012
+ Oh god, Noctis. Such a wonderful experience! I spent so much time understanding so little, but loving every second of it. I'd say that Proteus probably comes closer to capturing that magic than I think I will be able to, but Noctis is definitely a big inspiration. I wish I was that talented at making the player feel so involved. – Reddit, u/xNotch, April 13, 2012
+ "I may have implemented a 6502 CPU, not sure how to test it. The unsigned bytes in java cause code bloat. Considering inventing new CPU." – @notch (Markus Persson) on X, March 19, 2012
+ "Emulating a 1 mhz 6502 cpu uses 5.5% of one core on my cpu. I think I need to optimize.. or make it 0.1 mhz. ;D" – @notch (Markus Persson) on X, March 22, 2012
+ "Starting to dislike the 6502 idea. Spending heaps of cpu cycles to emulate not being able to multiply. Reconsidering custom CPU again.." – @notch (Markus Persson) on X, March 23, 2012

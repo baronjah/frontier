@@ -1,0 +1,8 @@
+.godot/
+*.uid
+docs/*.jpg
+docs/*.jpeg
+docs/*.webp
+docs/*.png
+screenshots/
+*.import

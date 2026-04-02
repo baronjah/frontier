@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- space -->
+  <rect width="128" height="128" fill="#04080f"/>
+  <!-- stars -->
+  <circle cx="12" cy="18" r="1.2" fill="#ffffff" opacity="0.9"/>
+  <circle cx="38" cy="10" r="1.8" fill="#ffffff" opacity="0.7"/>
+  <circle cx="72" cy="8"  r="1"   fill="#ffffff" opacity="0.8"/>
+  <circle cx="105" cy="14" r="1.4" fill="#ffffff" opacity="0.6"/>
+  <circle cx="118" cy="38" r="1"   fill="#ffffff" opacity="0.9"/>
+  <circle cx="22" cy="58" r="1"   fill="#ffffff" opacity="0.5"/>
+  <circle cx="8"  cy="90" r="1.2" fill="#ffffff" opacity="0.7"/>
+  <circle cx="120" cy="78" r="1"  fill="#ffffff" opacity="0.6"/>
+  <circle cx="55" cy="22" r="1"   fill="#aaddff" opacity="0.6"/>
+  <!-- planet -->
+  <circle cx="96" cy="34" r="26" fill="#0e2d4a"/>
+  <circle cx="96" cy="34" r="26" fill="none" stroke="#1a6699" stroke-width="1.5"/>
+  <circle cx="96" cy="34" r="31" fill="none" stroke="#0d4466" stroke-width="4" opacity="0.35"/>
+  <path d="M72,32 Q83,24 96,28 Q109,33 120,27" fill="none" stroke="#22aadd" stroke-width="1.5" opacity="0.5"/>
+  <!-- ship hull -->
+  <g transform="translate(44,90) rotate(-40)">
+    <polygon points="0,-26 9,10 0,5 -9,10" fill="#cce4ff"/>
+    <ellipse cx="0" cy="-15" rx="4.5" ry="6" fill="#44aaff" opacity="0.85"/>
+    <!-- wings -->
+    <polygon points="-9,8 -18,16 -6,10"  fill="#99bbdd"/>
+    <polygon points=" 9,8  18,16  6,10"  fill="#99bbdd"/>
+    <!-- engine glow -->
+    <ellipse cx="0" cy="13" rx="5" ry="3" fill="#ff7700" opacity="0.95"/>
+    <ellipse cx="0" cy="17" rx="3" ry="2" fill="#ffcc00" opacity="0.7"/>
+  </g>
+  <!-- exhaust trail -->
+  <path d="M40,106 Q36,114 30,122" stroke="#ff7700" stroke-width="2.5" fill="none" opacity="0.55" stroke-linecap="round"/>
+  <path d="M43,107 Q40,116 36,124" stroke="#ffcc00" stroke-width="1.2" fill="none" opacity="0.3" stroke-linecap="round"/>
+  <!-- FRONTIER text -->
+  <text x="64" y="124" text-anchor="middle" font-family="monospace" font-size="9" font-weight="bold" fill="#22aadd" opacity="0.7" letter-spacing="3">FRONTIER</text>
+</svg>
